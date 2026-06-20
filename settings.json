@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "blackbear.aternos.host",
+    "ip": "blackbear.aternos.host:13591",
     "port": 13591,
     "version": "1.21.1"
   },
