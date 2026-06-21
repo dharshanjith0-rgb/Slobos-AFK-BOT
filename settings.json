@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kokanee.aternos.host:53647",
+    "ip": "kokanee.aternos.host",
     "port": 53647,
     "version": "1.21.11"
   },
