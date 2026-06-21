@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hairtail.aternos.host:1359",
-    "port": 13591,
+    "ip": "kokanee.aternos.host:53647",
+    "port": 53647,
     "version": "1.21.11"
   },
   "position": {
